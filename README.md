@@ -90,10 +90,10 @@
 <li>✅ <b>AWS Certified Cloud Practitioner</b></li>
 <li>✅ <b>GitHub Foundations Certification</b></li>
 <li>✅ <b>AI & ML Internship</b> – APSSDC</li>
-<li>✅ <b>15-Month Data Engineering Internship</b> – AICTE</li>
+<li>✅ <b>15-Month Tech Internship</b> – AICTE</li>
 <li>✅ <b>Google Cloud Arcade Premium+ Tier</b> – Multiple hands-on labs</li>
-<li>✅ <b>GHCI 2025 Scholar</b></li>
-<li>✅ <b>Fintech Olympiad 2025 – National Finalist</b></li>
+<li>✅ <b>GHCI'25 Scholar</b></li>
+<li>✅ <b>Fintech Olympiad'25 – National Finalist</b></li>
 <li>✅ Participated in multiple <b>hackathons & coding challenges</b> (Unstop, HackerEarth, campus events)</li>
 
 </ul>
