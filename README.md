@@ -11,7 +11,7 @@
 - ☁️ Exploring: **Cloud, Data Engineering & DevOps**
 - 🧠 I love: **Problem-solving, Hackathons & Hands-on Labs**
 - 🌐 Portfolio: **[Visit my site](https://2200033104.github.io/app/)**
-- 📚 Certifications: **AWS CCP, GitHub Foundations, Data Engineering & Cloud Internships**
+- 📚 Certifications: **AWS CP, GitHub Foundations, Salesforce AI Associate & Specialist, Servicenow CSA & CAD, Redhat EX-183**
 - 🎯 Goal: **To build impactful, scalable systems in software & data engineering**
 - 📫 Reach me at: **2200033104cseh@gmail.com**
 
