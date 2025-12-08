@@ -1,5 +1,5 @@
-<h2 align="center">Hi, I'm Jahnavi (Janu) 👋</h2>
-<h4 align="center">3rd Year CSE @ KL University | Aspiring Software & Data Engineer | Cloud & DevOps Enthusiast</h4>
+<h2 align="center">Hi, I'm Jahnavi 👋</h2>
+<h4 align="center">Final Year CSE(Honours) @ KL University | Aspiring Software & Data Engineer | Cloud & DevOps Enthusiast</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=2200033104&label=Profile%20Views&color=0e75b6&style=flat" alt="2200033104" />
