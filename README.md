@@ -87,32 +87,19 @@
 <h3 align="center">🏅 Highlights & Certifications</h3>
 
 <ul>
-  <li>✅ <b>AWS Certified Cloud Practitioner</b></li>
-  <li>✅ <b>GitHub Foundations Certification</b></li>
-  <li>✅ <b>AI & ML Internship</b> – APSSDC</li>
-  <li>✅ <b>Data Engineering Virtual Internship</b> – AICTE</li>
-  <li>✅ <b>Data Analytics Process Automation Virtual Internship</b></li>
-  <li>✅ <b>Google Cloud Arcade Premium+ Tier</b> – Multiple hands-on labs</li>
-  <li>✅ Participated in multiple <b>hackathons & coding challenges</b> (Unstop, HackerEarth, campus events)</li>
+<li>✅ <b>AWS Certified Cloud Practitioner</b></li>
+<li>✅ <b>GitHub Foundations Certification</b></li>
+<li>✅ <b>AI & ML Internship</b> – APSSDC</li>
+<li>✅ <b>15-Month Data Engineering Internship</b> – AICTE</li>
+<li>✅ <b>Google Cloud Arcade Premium+ Tier</b> – Multiple hands-on labs</li>
+<li>✅ <b>GHCI 2025 Scholar</b></li>
+<li>✅ <b>Fintech Olympiad 2025 – National Finalist</b></li>
+<li>✅ Participated in multiple <b>hackathons & coding challenges</b> (Unstop, HackerEarth, campus events)</li>
+
 </ul>
 
 <hr style="border: 0; border-top: 1px solid #444; margin: 20px 0;" />
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2200033104&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2200033104&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2200033104&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<hr style="border: 0; border-top: 1px solid #444; margin: 20px 0;" />
 
 <p align="center">
   <i>✨ Always learning, always building. Let’s create something impactful together!</i>
